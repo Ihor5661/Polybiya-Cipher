@@ -1,0 +1,25 @@
+C:\Users\ACER\Desktop\Curs_2_Studets\Бульбаха Богдан\2_2\TAG\cipher\bin\Debug\cipher.exe.config
+C:\Users\ACER\Desktop\Curs_2_Studets\Бульбаха Богдан\2_2\TAG\cipher\bin\Debug\cipher.exe
+C:\Users\ACER\Desktop\Curs_2_Studets\Бульбаха Богдан\2_2\TAG\cipher\bin\Debug\cipher.pdb
+C:\Users\ACER\Desktop\Curs_2_Studets\Бульбаха Богдан\2_2\TAG\cipher\obj\Debug\cipher.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Curs_2_Studets\Бульбаха Богдан\2_2\TAG\cipher\obj\Debug\cipher.Form1.resources
+C:\Users\ACER\Desktop\Curs_2_Studets\Бульбаха Богдан\2_2\TAG\cipher\obj\Debug\cipher.Properties.Resources.resources
+C:\Users\ACER\Desktop\Curs_2_Studets\Бульбаха Богдан\2_2\TAG\cipher\obj\Debug\cipher.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Curs_2_Studets\Бульбаха Богдан\2_2\TAG\cipher\obj\Debug\cipher.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Curs_2_Studets\Бульбаха Богдан\2_2\TAG\cipher\obj\Debug\cipher.exe
+C:\Users\ACER\Desktop\Curs_2_Studets\Бульбаха Богдан\2_2\TAG\cipher\obj\Debug\cipher.pdb
+C:\Users\ACER\Desktop\Curs_2_Studets\Бульбаха Богдан\2_2\TAG\cipher\obj\Debug\cipher.Form2.resources
+C:\Users\ACER\Desktop\Curs_2_Studets\Бульбаха Богдан\2_2\TAG\cipher\obj\Debug\cipher.Form3.resources
+D:\Work\CV\cipher\bin\Debug\cipher.exe.config
+D:\Work\CV\cipher\bin\Debug\cipher.exe
+D:\Work\CV\cipher\bin\Debug\cipher.pdb
+D:\Work\CV\cipher\obj\Debug\cipher.csproj.AssemblyReference.cache
+D:\Work\CV\cipher\obj\Debug\cipher.csproj.SuggestedBindingRedirects.cache
+D:\Work\CV\cipher\obj\Debug\cipher.Form1.resources
+D:\Work\CV\cipher\obj\Debug\cipher.Form2.resources
+D:\Work\CV\cipher\obj\Debug\cipher.Form3.resources
+D:\Work\CV\cipher\obj\Debug\cipher.Properties.Resources.resources
+D:\Work\CV\cipher\obj\Debug\cipher.csproj.GenerateResource.cache
+D:\Work\CV\cipher\obj\Debug\cipher.csproj.CoreCompileInputs.cache
+D:\Work\CV\cipher\obj\Debug\cipher.exe
+D:\Work\CV\cipher\obj\Debug\cipher.pdb

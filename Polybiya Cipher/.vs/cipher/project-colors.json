@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "48ace565-abbb-40b2-b107-b94395493fac": {
+      "ProjectGuid": "48ace565-abbb-40b2-b107-b94395493fac",
+      "DisplayName": "cipher",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
